@@ -1,0 +1,77 @@
+_repo: She_3155
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "She — subtitled A History of Adventure — is a novel by H. Rider Haggard\
+  \ (1856–1925), first serialised in The Graphic magazine from October 1886 to January\
+  \ 1887. She is one of the classics of imaginative literature, and one of the best-selling\
+  \ books of all time, with over 100 million copies sold in 44 different languages\
+  \ as of 2013. She was extraordinarily popular upon its release and has never been\
+  \ out of print. According to literary historian Andrew M. Stauffer, \"She has always\
+  \ been Rider Haggard's most popular and influential novel, challenged only by King\
+  \ Solomon's Mines in this regard\".\nThe story is a first-person narrative that\
+  \ follows the journey of Horace Holly and his ward Leo Vincey to a lost kingdom\
+  \ in the African interior. There they encounter a primitive race of natives and\
+  \ a mysterious white queen named Ayesha who reigns as the all-powerful \"She\",\
+  \ or \"She-who-must-be-obeyed\". In this work, Rider Haggard developed the conventions\
+  \ of the Lost World subgenre, which many later authors emulated.\nShe is placed\
+  \ firmly in the imperialist literature of nineteenth-century England, and inspired\
+  \ by Rider Haggard's experiences of South Africa and British colonialism. The story\
+  \ expresses numerous racial and evolutionary conceptions of the late Victorians,\
+  \ especially notions of degeneration and racial decline prominent during the fin\
+  \ de siècle. In the figure of She, the novel notably explored themes of female authority\
+  \ and feminine behaviour. It has received praise and criticism alike for its representation\
+  \ of womanhood.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Adventure
+- Best Books Ever Listings
+- Movie Books
+gutenberg_issued: '2006-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3155'
+  wikidata: Q640513
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Immortalism -- Fiction'
+- !lcsh 'Ayesha (Fictitious character : Haggard) -- Fiction'
+- !lcsh 'Reincarnation -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Women -- Africa -- Fiction'
+- GITenberg
+title: She
+url: http://www.gutenberg.org/ebooks/3155
+wikipedia:
+- https://sh.wikipedia.org/wiki/She:_A_History_of_Adventure
+- https://eo.wikipedia.org/wiki/%C5%9Ci_(romano)
+- https://ar.wikipedia.org/wiki/%D9%87%D9%8A_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://nl.wikipedia.org/wiki/Zij_(boek)
+- https://pt.wikipedia.org/wiki/Ela,_a_Feiticeira
+- https://pl.wikipedia.org/wiki/Ona_czyli_historia_niezwyk%C5%82ej_wyprawy
+- https://tr.wikipedia.org/wiki/Ayi%C5%9Fe
+- https://de.wikipedia.org/wiki/Sie_(Haggard)
+- https://fr.wikipedia.org/wiki/Elle_(roman)
+- https://es.wikipedia.org/wiki/Ella
+- https://en.wikipedia.org/wiki/She:_A_History_of_Adventure
+- https://it.wikipedia.org/wiki/La_donna_eterna
+- https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8D%83%E5%B9%B4%E8%B1%94%E5%B1%8D%E8%A8%98
+- https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B0:_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F
+- https://bn.wikipedia.org/wiki/%E0%A6%B6%E0%A7%80:_%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE_%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF_%E0%A6%85%E0%A6%AC_%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A1%E0%A6%AD%E0%A7%87%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%BE%E0%A6%B0
+- https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%85%80_(%EC%86%8C%EC%84%A4)
+- https://ca.wikipedia.org/wiki/Ella_(novel%C2%B7la)
