@@ -1,5 +1,8 @@
 _repo: She_3155
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haggard, H. Rider (Henry Rider)
@@ -31,6 +34,8 @@ description: "She — subtitled A History of Adventure — is a novel by H. Ride
   \ de siècle. In the figure of She, the novel notably explored themes of female authority\
   \ and feminine behaviour. It has received praise and criticism alike for its representation\
   \ of womanhood.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3155#She
 gutenberg_bookshelf:
 - Adventure
 - Best Books Ever Listings
